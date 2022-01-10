@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Yahia Alhajj
-- 👀 I’m interested in Programming and arts
-- 🌱 I’m currently learning Programming until the end
-- 💞️ I’m looking to collaborate on Programming forever
+- 👋 Hi, I’m  Yahia Alhajj, a developer for android&ios apps.
+- 👀 I’m interested in Programming and cinema 
+- 🌱 I’m currently learning advanced programming languages 
+- 💞️ I’m looking to start my own company 
 - 📫 How to reach me
   Phone No: +967771521771
   Email : yhya201173@gmail.com
